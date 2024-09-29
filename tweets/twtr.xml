@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+    <site>
+        <url>https://twtr.com/status/niko/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/niko.webp</image>
+        <name>Niko</name>
+        <doturl>https://twtr.com/niko</doturl>
+        <userurl>https://twtr.com/niko</userurl>
+        <username>niko</username>
+        <tweetContent>hello there @twtr</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/twtr/status/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/twtr.png</image>
+        <name>twtr</name>
+        <doturl>https://twtr.com/twtr</doturl>
+        <userurl>https://twtr.com/twtr</userurl>
+        <username>twtr</username>
+        <tweetContent>Hey! @hac3d here. This is the official twtr twtr account!</tweetContent>
+    </site>
+</sites>

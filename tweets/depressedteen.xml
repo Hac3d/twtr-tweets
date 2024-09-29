@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+    <site>
+        <url>https://twtr.com/depressedteen/status/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/depressedteen.png</image>
+        <name>Alexander Smite</name>
+        <doturl>https://twtr.com/depressedteen</doturl>
+        <userurl>https://twtr.com/depressedteen</userurl>
+        <username>depressedteen</username>
+        <tweetContent>@niko stop lying, you are @dotdotdot >:P</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/status/hac3d/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/Hac3d.png</image>
+        <name>HackThreeDee</name>
+        <doturl>https://twtr.com/hac3d</doturl>
+        <userurl>https://twtr.com/hac3d</userurl>
+        <username>hac3d</username>
+        <tweetContent>@depressedteen haxxerz</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/depressedteen/status/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/depressedteen.png</image>
+        <name>Alexander Smite</name>
+        <doturl>https://twtr.com/depressedteen</doturl>
+        <userurl>https://twtr.com/depressedteen</userurl>
+        <username>depressedteen</username>
+        <tweetContent>gifs</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/status/hac3d/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/Hac3d.png</image>
+        <name>HackThreeDee</name>
+        <retweetedBy>Alexander Smite</retweetedBy>
+        <retweetUserURL>/depressedteen</retweetUserURL>
+        <doturl>https://twtr.com/hac3d</doturl>
+        <userurl>https://twtr.com/hac3d</userurl>
+        <username>hac3d</username>
+        <tweetContent>Yo, I've rewritten the twtr API. Your accounts may show up in tweets, but the profiles may not load. This should be fixed soon, I promise!         ( You can also use gifs as user avatars now :O )</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/depressedteen/status/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/depressedteen.png</image>
+        <name>Alexander Smite</name>
+        <doturl>https://twtr.com/depressedteen</doturl>
+        <userurl>https://twtr.com/depressedteen</userurl>
+        <username>depressedteen</username>
+        <tweetContent>@hac3d why is @innocentnlmb banned?</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/depressedteen/status/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/depressedteen.png</image>
+        <name>Alexander Smite</name>
+        <doturl>https://twtr.com/depressedteen</doturl>
+        <userurl>https://twtr.com/depressedteen</userurl>
+        <username>depressedteen</username>
+        <tweetContent>I like how the @innocentnlmb account is basically blank lol</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/depressedteen/status/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/depressedteen.png</image>
+        <name>Alexander Smite</name>
+        <doturl>https://twtr.com/depressedteen</doturl>
+        <userurl>https://twtr.com/depressedteen</userurl>
+        <username>depressedteen</username>
+        <tweetContent>Hello, world. And @hac3d ofc.</tweetContent>
+    </site>
+    <site>
+        <url>https://twtr.com/yustinjustin/status/166922044284477440</url>
+        <image>https://api.twtr.com/userimgs/yustinjustin.png</image>
+        <name>Justin Timberlake</name>
+        <doturl>https://twtr.com/yustinjustin</doturl>
+        <userurl>https://twtr.com/yustinjustin</userurl>
+        <username>yustinjustin</username>
+        <tweetContent>@hac3d and @depressedteen moved accounts to twtr! nice.</tweetContent>
+    </site>
+</sites>
